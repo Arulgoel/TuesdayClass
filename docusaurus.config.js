@@ -1,4 +1,4 @@
-// @ts-check
+wq// @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '107T Research Series',
@@ -7,10 +7,10 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  url: 'https://arulgoel.github.io',
+  baseUrl: '/Tuesdaylass/',
+  organizationName: 'arulgoel',
+  projectName: 'TuesdayClass',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
